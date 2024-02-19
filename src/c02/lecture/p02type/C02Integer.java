@@ -20,7 +20,8 @@ public class C02Integer {
 
 //        b= 3.14  // x
 
-
+        // 내일은 byte, short 배울 예정
+        // byte, short
 //        long
 //        byte, short
     }
