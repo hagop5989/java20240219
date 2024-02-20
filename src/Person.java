@@ -9,9 +9,7 @@ public class Person {
     public String getName() {
         return name;
     }
-    public int getAge() {
-        return age;
-    }
+    public int getAge() { return age; }
 
     public void setName(String name) {
         this.name = name;
@@ -20,7 +18,8 @@ public class Person {
         this.age = age;
     }
     public  void introduce() {
-        System.out.println("안녕하세요, 제 이름은 " + name + " 이고," + age + " 살입니다.");
+        System.out.println("안녕하세요, 제 이름은 "
+                + name + " 이고," + age + " 살입니다.");
     }
 }
 
