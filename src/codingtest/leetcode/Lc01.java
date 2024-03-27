@@ -1,4 +1,4 @@
-package leetcode;
+package codingtest.leetcode;
 
 import java.util.*;
 import java.util.stream.IntStream;

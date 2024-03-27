@@ -1,4 +1,4 @@
-package leetcode;
+package codingtest.leetcode;
 
 public class test implements Runnable {
     static boolean autoSave = false;

@@ -1,9 +1,7 @@
-package leetcode;
+package codingtest.leetcode;
 
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Set;
 
 public class T1748 {
     public static void main(String[] args) {

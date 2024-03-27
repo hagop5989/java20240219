@@ -1,4 +1,4 @@
-package leetcode;
+package codingtest.leetcode;
 
 public class PrintInOrder1114 {
     public void main(String[] args) throws InterruptedException {

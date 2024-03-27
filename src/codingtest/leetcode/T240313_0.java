@@ -1,4 +1,4 @@
-package codingtest;
+package codingtest.leetcode;
 
 public class T240313_0 {
     public static void main(String[] args) {

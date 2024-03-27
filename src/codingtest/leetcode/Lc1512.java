@@ -1,10 +1,7 @@
-package leetcode;
+package codingtest.leetcode;
 
 import java.util.Arrays;
-import java.util.Map;
-import java.util.function.Function;
 import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 
 public class Lc1512 {
     public static void main(String[] args) {
