@@ -16,7 +16,7 @@ public class CastingMain5 {
         if (parent instanceof Child child) {
             System.out.println("Child 인스턴스 맞음");
 //            Child child = (Child) parent;
-            child.childMethod();
+            child.childmethod();
         } else {
             System.out.println("Child 인스턴스 아님");
         }
