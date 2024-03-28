@@ -10,9 +10,9 @@ public class CastingMain2 {
 
         //다운캐스팅(부모 타입 -> 자식 타입)
         Child child = (Child) poly; //x001
-        child.childMethod();
+        child.childmethod();
 
         //일시적 다운 캐스팅 = 해당 메서드 호출하는 순간만 다운 캐스팅
-        ((Child) poly).childMethod();
+        ((Child) poly).childmethod();
     }
 }

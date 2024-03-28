@@ -1,4 +1,4 @@
-package leetcode;
+package codingtest.leetcode;
 
 public class Foo {
     public Foo() throws InterruptedException {
