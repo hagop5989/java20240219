@@ -17,6 +17,7 @@ public class CopyExample {
                     int num = is.read(data);
                     if (num == -1) break;
                     os.write(data, 0, num);
+                    
                 }
             }
         } catch (IOException e) {
